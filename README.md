@@ -1,6 +1,9 @@
-Welcome to My profile! <br/>
-[![](https://visitcount.itsvg.in/api?id=nayanzin33sergey&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">
+ Welcome to My profile!
+  
+</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanzin33sergey&label=Profile%20views&color=0e75b6&style=flat" alt="nayanzin33sergey"/> </p>
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
